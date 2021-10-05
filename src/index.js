@@ -38,7 +38,7 @@ class MyGame extends Phaser.Scene
     create ()
     {
 
-        this.duration = 1000;
+        this.duration = 2000;
 
 
         let cake = this.add.image(500,500, `cake`)
@@ -107,7 +107,7 @@ class MyGame extends Phaser.Scene
                    forget about your past, 
                      you cannot change it.
         You can forget about your present.
-          I didn't buy you want this time.    
+          I didn't buy you one this time.    
                     Wish you all the best.
 
                                      Thien
